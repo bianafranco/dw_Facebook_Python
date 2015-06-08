@@ -4,7 +4,7 @@ from criando_banco import dao
 
 d = dao()
 
-token = 'CAACEdEose0cBAEnwRZBPCWrWQ7ilLpDCT6SFfYZBC3ZBwvtOlOZBrMTVUrbFcUGUnlgz26Mpz8K3Wh3h75Xtcbr1mJddJxyB4WSuSNPCvDVfj3NwupPvd59YhkG5Yt6xV41NV9Gs9csLYc0npoASOjtO2GI3EMAzXByVmrcUbykrL59wZB8lfnNZCmsP20BC7HnDZCpuU9yNgHNZBaIvKYeo'
+token = ''
 
 def pegarDadosUsuario(idUser):
     idUser = str(idUser)
